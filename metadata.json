@@ -1,0 +1,6 @@
+{
+  "name": "Dominican Payroll Calculator",
+  "description": "A React application that calculates net salary for employees in the Dominican Republic based on gross monthly salary, payment frequency, and tax exemptions, following local regulations for AFP, SFS, and ISR deductions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
